@@ -1,0 +1,9 @@
+AI/Connector-package/
+├── src/
+│   └── main.py
+├── .env
+├── .env.example
+├── requirements.txt
+├── README.md
+└── .vscode/
+    └── extensions.json
